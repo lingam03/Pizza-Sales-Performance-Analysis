@@ -1,4 +1,4 @@
-# Pizza-Sales-Performance
+# Pizza Sales Performance Analysis
 In our pizza sales analysis project, we aimed to uncover key insights into revenue patterns, customer preferences, and regional performance to drive better business decisions and strategies. Using MySQL for data extraction and cleaning, we ensured data accuracy and consistency from various sources. With Power BI, we created dynamic and interactive dashboards to visualize sales performance, top-selling pizzas, and high-demand regions.
 
 Tasks Completed:
